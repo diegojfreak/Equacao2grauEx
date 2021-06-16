@@ -1,0 +1,7 @@
+C:\Users\diego\OneDrive\Documentos\ADS\2021\PO2A5\A1PO2ex2\A1PO2ex2\bin\Debug\A1PO2ex2.exe.config
+C:\Users\diego\OneDrive\Documentos\ADS\2021\PO2A5\A1PO2ex2\A1PO2ex2\bin\Debug\A1PO2ex2.exe
+C:\Users\diego\OneDrive\Documentos\ADS\2021\PO2A5\A1PO2ex2\A1PO2ex2\bin\Debug\A1PO2ex2.pdb
+C:\Users\diego\OneDrive\Documentos\ADS\2021\PO2A5\A1PO2ex2\A1PO2ex2\obj\Debug\A1PO2ex2.csprojAssemblyReference.cache
+C:\Users\diego\OneDrive\Documentos\ADS\2021\PO2A5\A1PO2ex2\A1PO2ex2\obj\Debug\A1PO2ex2.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Documentos\ADS\2021\PO2A5\A1PO2ex2\A1PO2ex2\obj\Debug\A1PO2ex2.exe
+C:\Users\diego\OneDrive\Documentos\ADS\2021\PO2A5\A1PO2ex2\A1PO2ex2\obj\Debug\A1PO2ex2.pdb
